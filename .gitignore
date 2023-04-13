@@ -12,3 +12,7 @@ outputs/*
 ai_settings.yaml
 .vscode
 auto-gpt.json
+myenv/*
+.DS_Store
+ai_settings.yaml
+outputs/logs/*
